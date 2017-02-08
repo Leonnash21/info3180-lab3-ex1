@@ -3,7 +3,7 @@ import smtplib
 
 from_name = 'Neil'
 from_addr = 'yourusername@gmail.com' 
-to_name ='Nash'
+to_name ='Nashy'
 to_addr = 'receiverusername@gmail.com' 
 subject = 'SMTP email test'
 message = """From: {} <{}>
